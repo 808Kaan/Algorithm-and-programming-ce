@@ -82,7 +82,7 @@ graph = {
     "F": []
 }
 
-# Start and target
+# Start and target nodes
 start_node = "A"
 target_node = "E"
 
