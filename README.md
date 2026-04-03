@@ -1,10 +1,10 @@
-🚀 Algorithm and Programming CE
+# 🚀 Algorithm and Programming CE
 
 This repository contains my studies, exercises, and implementations related to algorithms and programming.
 
 It is created as part of my learning journey in computer engineering.
 
-📌 About
+## 📌 About
 
 Algorithms are step-by-step procedures used to solve problems, and they form the backbone of all software systems.
 
@@ -18,7 +18,7 @@ Data structures examples
 
 Practice codes from coursework
 
-🧠 Topics Covered
+### 🧠 Topics Covered
 
 🔹 Variables & Data Types
 
