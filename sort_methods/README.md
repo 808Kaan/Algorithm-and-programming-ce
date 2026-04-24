@@ -9,6 +9,8 @@ The purpose of this folder is to improve algorithmic thinking and understand how
 - Bubble Sort (`bubble_sort.py`)
 - Selection Sort (`selection_sort.py`)
 - Insertion Sort (`insertion_sort.py`)
+- Merge Sort (`merge_sort.py`)
+- Quick Sort (`quick_sort.py`)
 
 ## Complexity
 
@@ -17,6 +19,8 @@ The purpose of this folder is to improve algorithmic thinking and understand how
 | Bubble Sort    | `bubble_sort.py`    | O(n)      | O(n²)      |
 | Selection Sort | `selection_sort.py` | O(n²)     | O(n²)      |
 | Insertion Sort | `insertion_sort.py` | O(n)      | O(n²)      |
+| Merge Sort     | `merge_sort.py`     | O(n log n)| O(n log n) |
+| Quick Sort     | `quick_sort.py`     | O(n log n)| O(n²)      |
 
 ## Learning Goals
 
